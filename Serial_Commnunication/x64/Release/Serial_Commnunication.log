@@ -1,0 +1,9 @@
+﻿  main.cpp
+d:\jen\synologydrive\mydrive\projects\serial_commnunication\serial_commnunication\serialcom.h(15): warning C4005: 'TX_BUF_SIZE': macro redefinition
+  d:\jen\synologydrive\mydrive\projects\serial_commnunication\serial_commnunication\frame.h(15): note: see previous definition of 'TX_BUF_SIZE'
+  Generating code
+  2 of 53 functions ( 3.8%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Serial_Commnunication.vcxproj -> D:\Jen\SynologyDrive\MyDrive\Projects\Serial_Commnunication\x64\Release\Serial_Commnunication.exe
